@@ -28,7 +28,7 @@ function App() {
             <p>Jeets, don’t try me ; my gun don’t miss</p>
             <p>my gun got more body counts than these bitches </p>
             <div className='buttons'>
-              <a href=''>Buy on Pump.Fun</a>
+              <a href='https://pump.fun/board'>Buy on Pump.Fun</a>
             </div>
           </div>
         </div>
@@ -39,8 +39,8 @@ function App() {
             <p>PenGun doesn’t just talk, i let my gun do my talking </p>
             <p>Giving away a jeeter’s head to one lucky winner that HODL</p>
             <div className='buttons'>
-              <a href=''><FontAwesomeIcon icon={faTwitter} /></a>
-              <a href=''><FontAwesomeIcon icon={faTelegram} /></a>
+              <a href='https://x.com/penguntoken'><FontAwesomeIcon icon={faTwitter} /></a>
+              <a href='https://t.me/penguntoken'><FontAwesomeIcon icon={faTelegram} /></a>
             </div>
           </div>
           <img src={img2} alt='img2' />
