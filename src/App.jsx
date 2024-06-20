@@ -16,7 +16,7 @@ function App() {
         <div className='buttons'>
           <a href='https://x.com/penguntoken'><FontAwesomeIcon icon={faTwitter} /></a>
           <a href='https://t.me/penguntoken'><FontAwesomeIcon icon={faTelegram} /></a>
-          <a href='https://pump.fun/BincH5hCpLTHgLJrZLvzDG2hjR5o1sYpcK9QYRMKpump'>Buy on Pump.Fun</a>
+          <a href='https://pump.fun'>Buy on Pump.Fun</a>
         </div>
       </header>
       <main>
