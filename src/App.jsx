@@ -14,9 +14,9 @@ function App() {
       <header>
         <img src={logo} className="App-logo" alt="logo" />
         <div className='buttons'>
-          <a href=''><FontAwesomeIcon icon={faTwitter} /></a>
-          <a href=''><FontAwesomeIcon icon={faTelegram} /></a>
-          <a href=''>Buy on Pump.Fun</a>
+          <a href='https://x.com/penguntoken'><FontAwesomeIcon icon={faTwitter} /></a>
+          <a href='https://t.me/penguntoken'><FontAwesomeIcon icon={faTelegram} /></a>
+          <a href='https://pump.fun/board'>Buy on Pump.Fun</a>
         </div>
       </header>
       <main>
@@ -56,9 +56,9 @@ function App() {
       <footer>
         <p>©2024 $PenGun</p>
         <div className='buttons'>
-          <a href=''><FontAwesomeIcon icon={faTwitter} /></a>
-          <a href=''><FontAwesomeIcon icon={faTelegram} /></a>
-          <a href=''>Buy on Pump.Fun</a>
+          <a href='https://x.com/penguntoken'><FontAwesomeIcon icon={faTwitter} /></a>
+          <a href='https://t.me/penguntoken'><FontAwesomeIcon icon={faTelegram} /></a>
+          <a href='https://pump.fun/board'>Buy on Pump.Fun</a>
         </div>
       </footer>
     </>
