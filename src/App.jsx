@@ -28,7 +28,7 @@ function App() {
             <p>Jeets, don’t try me ; my gun don’t miss</p>
             <p>my gun got more body counts than these bitches </p>
             <div className='buttons'>
-              <a href='https://pump.fun/board'>Buy on Pump.Fun</a>
+              <a href='https://pump.fun/2P4mmH4KJqQizdL4jF3qkTAeJMog5CrfCaiVPNt5pump'>Buy on Pump.Fun</a>
             </div>
           </div>
         </div>
